@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+div{
+    display: flex;
+}
+.red{
+    box-shadow: 5px 5px 9px 5px #000;
+    background-color: red;
+    width: 50%;
+    height: 100vh;
+    color: #fff;
+}
+.blue{
+    box-shadow: 5px 5px 9px 5px #000;
+    height: 100vh;
+    background-color: blue;
+    width: 50%;
+    color: #fff;
+}
+.text{
+    cursor: pointer;
+  text-align: center;
+  margin-top: 350px;
+  text-transform: capitalize;
+  text-shadow: 2px 2px #fff;
+}
