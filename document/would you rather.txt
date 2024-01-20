@@ -1,0 +1,65 @@
+  Q1 :{
+      "Q1":"stay inside all your life",// 53%
+
+      "Q2":"stay outside for ever life", // 47%
+  },
+  Q2:{
+    "Q1":"have 10 wishes ", //83%
+     
+    "Q2":"give people wishes", //%17
+  },
+  Q3:{
+    "Q1":"only to sing ", //71%
+     
+    "Q2":"only to dance", //%29
+  },
+  Q4:{
+    "Q1":"be smart but all people hates you ", //48%
+     
+    "Q2":"be stupid but all people loves you ", //%52
+  },
+  Q5:{
+    "Q1":"be funny but not cool ", //61%
+     
+    "Q2":"be cool but not funny ", //%29
+  },
+  Q6:{
+    "Q1":"have 1 billion dollar ", //34%
+     
+    "Q2":"get 1 penny and double it every day ", //66%
+  },
+  Q7:{
+    "Q1":"have more time ", //42%
+     
+    "Q2":"have more money", //%58
+  },
+  Q8:{
+    "Q1":"be a doctor ", //50%
+     
+    "Q2":"be a lawyer", //%50
+  },
+  Q9:{
+    "Q1":"alway summer ", //46%
+     
+    "Q2":"alway winter", //%54
+  },
+  Q10:{
+    "Q1":"only eat friut ", //73%
+     
+    "Q2":"eat only  vegtables", //%27
+  },
+  Q11:{
+    "Q1":"take screen shot whith as3ad ",//  50%
+     
+    "Q2":"take screen shot whith joudi", //50%
+  },
+  Q12:{
+      "Q1":"eat 300 doughnuts <br> in 4 hours for 500$",// 69 %
+       
+      "Q2":"drink a cup of sour milk for 50$", // 31%
+    },
+   Q13:{
+      "Q1":"Be able to survive any injury or fall",// 76 %
+       
+      "Q2":"Be able to pull out any Acme Corporation product out of your pocket", // 24%
+    },
